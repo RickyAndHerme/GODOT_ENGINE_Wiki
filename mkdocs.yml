@@ -19,4 +19,5 @@ plugins:
 
 nav:
   - ホーム: index.md
+  - ブロック崩し: break_out.md
 
