@@ -1,1 +1,22 @@
+site_name: Godot Engine 修練場
+site_url: https://rickyandherme.github.io/GODOT_ENGINE_Wiki/
+
+theme:
+  name: material
+  language: ja
+  palette:
+    scheme: default
+  features:
+    - navigation.sections
+    - navigation.top
+    - toc.follow
+    - search.suggest
+    - content.code.copy
+
+plugins:
+  - search:
+      lang: ja
+
+nav:
+  - ホーム: index.md
 
