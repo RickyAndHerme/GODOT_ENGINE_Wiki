@@ -1,3 +1,7 @@
+---
+comments: true
+---
+
 # ブロック崩しゲームの制作
 
 Godot 4.xを使ってブロック崩しを制作する。
@@ -22,7 +26,3 @@ func _physics_process(delta):
 ## 3. 画像の挿入
 
 ![シーン構成](images/blockbreak.png)
-
----
-comments: true
----
