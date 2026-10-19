@@ -22,3 +22,7 @@ func _physics_process(delta):
 ## 3. 画像の挿入
 
 ![シーン構成](images/blockbreak.png)
+
+---
+comments: true
+---
