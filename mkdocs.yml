@@ -3,6 +3,7 @@ site_url: https://rickyandherme.github.io/GODOT_ENGINE_Wiki/
 
 theme:
   name: material
+  custom_dir: overrides
   language: ja
   palette:
     scheme: default
