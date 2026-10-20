@@ -13,6 +13,7 @@ theme:
     - toc.follow
     - search.suggest
     - content.code.copy
+  primary: black
 
 plugins:
   - search:
