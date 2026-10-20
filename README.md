@@ -8,7 +8,7 @@ Godot Engineを使用したゲーム制作の技術解説サイトです。
 
 - [Godot Engine 修練場 Wiki](https://rickyandherme.github.io/GODOT_ENGINE_Wiki/)
 - [サンプルプロジェクト（GitHub）](https://github.com/RickyAndHerme/Godot_Shu_ren)
-- [質問・コメント（Discussions）](https://github.com/RickyAndHerme/GODOT_ENGINE_Wiki/discussions)
+- [質問・コメント（Discussions）](https://github.com/RickyAndHerme/GODOT_ENGINE_Wiki/discussions/)
 
 ## 使用技術
 
